@@ -1,3 +1,3 @@
 frase para a atividade git 04/06
 alteração da atividade.txt
-alteração atv02
+alteração atv02.
